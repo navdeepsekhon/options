@@ -34,7 +34,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "OptionNotes on GitHub":
-    - "//github.com/navdeepsekhon/options"
+    - "www.navdeepsekhon.com/options"
 
 # Sort order for navigation links
 nav_sort: case_insensitive # default, equivalent to nil
