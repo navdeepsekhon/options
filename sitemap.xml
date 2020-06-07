@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>http://optionnotes.com/</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/call-strategies</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/call-strategies/call-buy</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/call-strategies/covered-call</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/call-strategies/ratio-call-spread</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/call-strategies/ratio-call-write</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/call-strategies/bull-call-spread</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/call-strategies/bear-call-spread</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/call-strategies/butterfly-spread</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/call-strategies/calendar-call-spread</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/call-strategies/calendar-ratio-call-spread</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/call-strategies/reverse-call-spread</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/call-strategies/naked-call</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/call-strategies/protected-short-sale</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/call-strategies/reverse-hedge</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/put-strategies</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/put-strategies/put-buy</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/combined-strategies</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/books</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/contributing</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://optionnotes.com/legal</loc>
+  <lastmod>2020-06-07T20:50:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
