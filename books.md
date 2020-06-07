@@ -8,8 +8,6 @@ permalink: /books
 
 # Books 
 
-Haven't read all of them yet.
-
 [Options as a Strategic Investment](https://amzn.to/2UfZfWo)
 
 [Option Volatility and Pricing: Advanced Trading Strategies and Techniques](https://amzn.to/3f2c7r5)

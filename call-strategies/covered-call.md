@@ -2,6 +2,7 @@
 layout: default
 title: Covered Calls (Buy Write)
 parent: Call Strategies
+nav_order: 2
 permalink: /call-strategies/covered-call
 ---
 # Covered Call (Buy Write) <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Quick reference guide for #coveredcall #optionstrategy via #optionnotes" data-url="http://optionnotes.com/call-strategies/covered-call" data-related="" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

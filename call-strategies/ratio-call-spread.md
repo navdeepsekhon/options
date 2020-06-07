@@ -2,6 +2,7 @@
 layout: default
 title: Ratio Call Spread
 parent: Call Strategies
+nav_order: 3
 permalink: /call-strategies/ratio-call-spread
 ---
 # Ratio Call Spread <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Quick reference guide for Ratio Call Spread #optionstrategy via #optionnotes" data-url="http://optionnotes.com/call-strategies/ratio-call-spread" data-related="" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

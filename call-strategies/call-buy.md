@@ -2,6 +2,7 @@
 layout: default
 title: Call Buy
 parent: Call Strategies
+nav_order: 1
 permalink: /call-strategies/call-buy
 ---
 # Call Buy <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Quick reference guide for #call buy #optionstrategy #optionnotes" data-url="http://optionnotes.com/call-strategies/call-buy" data-related="navdeepco" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

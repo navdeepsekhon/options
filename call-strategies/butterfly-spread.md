@@ -2,6 +2,7 @@
 layout: default
 title: Butterfly Spread
 parent: Call Strategies
+nav_order: 7
 permalink: /call-strategies/butterfly-spread
 ---
 # Butterfly Spread <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Quick reference guide for Butterfly Spread #optionstrategy via #optionnotes" data-url="http://optionnotes.com/call-strategies/butterfly-spread" data-related="" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

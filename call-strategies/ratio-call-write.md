@@ -2,6 +2,7 @@
 layout: default
 title: Ratio Call Write
 parent: Call Strategies
+nav_order: 4
 permalink: /call-strategies/ratio-call-write
 ---
 # Ratio Call Write <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Quick reference guide for Ratio Call Write #optionstrategy via #optionnotes" data-url="http://optionnotes.com/call-strategies/ratio-call-write" data-related="" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
