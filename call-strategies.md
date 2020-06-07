@@ -3,6 +3,7 @@ layout: default
 title: Call Strategies
 nav_order: 2
 has_children: true
+description: "OptionNotes reference guide for various call options strategies."
 permalink: /call-strategies
 ---
 
