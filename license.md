@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Legal
-nav_order: 100
+nav_exclude: true
+search_exclude: true
 description: "OptionNotes contains quick notes about various options trading strategies."
 permalink: /legal
 ---

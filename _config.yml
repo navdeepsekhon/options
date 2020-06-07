@@ -50,7 +50,7 @@ gh_edit_repository: "https://github.com/navdeepsekhon/options" # the github URL 
 gh_edit_branch: "master" # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
-footer_content: "Legal Stuff: All content for educational purposes, not financial advise. <a href=\"https://github.com/navdeepsekhon/options/blob/master/LICENSE\">License</a>"
+footer_content: "All content for educational purposes, not financial advise. <a href=\"legal\">Read more.</a>"
 
 ga_tracking: UA-71739348-2
 
