@@ -2,6 +2,7 @@
 layout: default
 title: Protected Short Sale (Synthetic Put)
 parent: Call Strategies
+nav_order: 99
 permalink: /call-strategies/protected-short-sale
 ---
 # Protected short sale (synthetic put) <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Quick reference guide for Protected Short Sale #optionstrategy via #optionnotes" data-url="http://optionnotes.com/call-strategies/protected-short-sale" data-related="" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
