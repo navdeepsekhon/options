@@ -15,6 +15,8 @@ Welcome to OptionNotes! These are my notes from learning about options trading. 
 If you're on a mobile device, click the MENU at the top to open navigation and search.
 <br/><br/>
 
+[Here are some books I like.](books)
+
 Did you find it useful? [You can buy me coffee :)](https://ko-fi.com/navco)
 
 Find something lacking? Help me improve it! [See how you can help.](contributing)
