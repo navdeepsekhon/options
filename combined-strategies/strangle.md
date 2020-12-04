@@ -23,7 +23,7 @@ permalink: /combined-strategies/strangle
 - If you keep moving the put up or the call down, at some point the strangle will go "inverted" i.e. put strike is now higher than call strike.
 - This is ok, as long as we make sure that the total premium we collected is more than the difference between the two strike prices. For example:
     - say we start with 25 put and 75 call when the stock is at 50
-    - stock keeps rising and we move the put all the way up to 75. So now we have a 75 call and put (btw this is called a [Straddle](combined-strategies/straddle))
+    - stock keeps rising and we move the put all the way up to 75. So now we have a 75 call and put (btw this is called a [Straddle](straddle))
     - say upto this point we have collected $8 premium, that means if the stock stays below 83(75+8), we are fine
     - if the stock moves to 84, it is now outside of our break even point. We need to collect more premium
     - let's say moving the put to 84 will give us an extra $2, making total premium $10 and moving our break even to 85
