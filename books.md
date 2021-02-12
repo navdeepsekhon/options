@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Books
-nav_order: 98
+nav_exclude: true
+search_exclude: true
 description: "OptionNotes contains quick notes about various options trading strategies."
 permalink: /books
 ---
