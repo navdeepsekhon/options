@@ -12,10 +12,7 @@ permalink: /
 
 Welcome to OptionNotes! These are my notes from learning about options trading. I will add more as I learn more. 
 
-If you're on a mobile device, click the MENU at the top to open navigation and search.
-<br/><br/>
-
-Or start with [Poor mans' covered call](call-strategies/synthetic-covered-call)
+If you're on a mobile device, click the MENU at the top to open navigation and search or start with [Poor man's covered call](call-strategies/synthetic-covered-call)
 
 Looking for a low fee brokers? [Try TastyWorks](https://start.tastyworks.com/#/login?referralCode=KJNNBZJABR)
 
