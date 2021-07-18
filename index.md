@@ -12,7 +12,7 @@ permalink: /
 
 Welcome to OptionNotes! These are my notes from learning about options trading. I will add more as I learn more. 
 
-Looking for a low fee brokers? [Try TastyWorks](https://start.tastyworks.com/#/login?referralCode=KJNNBZJABR)
+ [Checkout my spreadsheet for tracking trades](https://www.etsy.com/listing/1039681140/options-selling-spreadsheet-and-trade)
 
 If you're on a mobile device, click the MENU at the top to open navigation and search or start with [Poor man's covered call](call-strategies/synthetic-covered-call)
 
